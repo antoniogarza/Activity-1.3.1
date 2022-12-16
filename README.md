@@ -9,6 +9,6 @@ My name is Ezra Hsiao, I work in a large bakery solving supply chain and operati
     Cryptocurrency is the future of money and technology is the future of work. I dont want to be left behind.
     
     
-##Awesome stuff
+## Awesome stuff
   
   [google](www.google.com)
